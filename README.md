@@ -21,18 +21,18 @@
 ---
 | Creational                                              | Structural                               | Behavioral                |
 | ------------------------------------------------------  | ---------------------------------------- | ---------------------------------------- |
-| Builder                                                 | Adapter                                  | Chain of Responsibility                  |
-| Abstract Factory                                        | Bridge                                   | Command                                  | 
-| Factory Method                                          | Composite                                | Interpreter                              |
-| Prototype                                               | Decorator                                | Iterator                                 |
-| Singleton                                               | Facade                                   | Mediator                                 |
-|                                                         | Flyweight                                | Memento                                  |
-|                                                         | Proxy                                    | Null Object                              |
-|                                                         |                                          | Observer                                 |
-|                                                         |                                          | State                                    |
-|                                                         |                                          | Strategy                                 |
-|                                                         |                                          | Template Method                          |
-|                                                         |                                          | Visitor                                  |
+| 섹션 2: Builder                                           | 섹션 6: Adapter                           | 섹션 13: Chain of Responsibility                  |
+| 섹션 3: Abstract Factory                                 | 섹션 7: Bridge                             | 섹션 14: Command                                  | 
+| 섹션 3: Factory Method                                   | 섹션 8: Composite                          | 섹션 15: Interpreter                              |
+| 섹션 4: Prototype                                        | 섹션 9: Decorator                          | 섹션 16: Iterator                                 |
+| 섹션 5: Singleton                                        | 섹션 10: Facade                            | 섹션 17: Mediator                                 |
+|                                                         | 섹션 11: Flyweight                         | 섹션 18: Memento                                  |
+|                                                         | 섹션 12: Proxy                            | 섹션 19: Null Object                              |
+|                                                         |                                          | 섹션 20: Observer                                 |
+|                                                         |                                          | 섹션 21: State                                    |
+|                                                         |                                          | 섹션 22: Strategy                                 |
+|                                                         |                                          | 섹션 23: Template Method                          |
+|                                                         |                                          | 섹션 24: Visitor                                  |
 
 
 ## 스터디 기간 
